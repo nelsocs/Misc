@@ -80,6 +80,12 @@ https://www.amazon.com/gp/product/1856230910/
 4. Permaculture: A Designers' Manual (Bill Mollison)
 https://www.amazon.com/gp/product/0908228015/
 
+5. Bold: How to Go Big, Create Wealth and Impact the World (Peter Diamandis)
+https://www.amazon.com/Bold-Create-Wealth-Impact-World-ebook/dp/B00LD1RZGM/
+
+6. Never Split the Difference: Negotiating As If Your Life Depended On It (Chris Voss)
+https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2/
+
 
 
 ## Ficton
