@@ -1,11 +1,30 @@
 # Reading List
 
+## Leadership
+1. Extreme Ownership (Jocko Willink and Leif Babin)
+https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2/
+
+2. Hal Moore on Leadership: Winning When Outgunned and Outmanned (Harold G. Moore and Mike Guardia)
+https://www.amazon.com/Hal-Moore-Leadership-Outgunned-Outmanned-ebook/dp/B073NNFNTM/
+
+3. Phoenix Project (Gene Kim, Kevin Behr, and George Spafford)
+https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/
+
+4. Start with Why: How Great Leaders Inspire Everyone to Take Action (Simon Sinek)
+https://www.amazon.com/gp/product/B002Q6XUE4/
+
+5. The Mission, The Men, and Me: Lessons from a Former Delta Force Commander (Pete Blaber)
+https://www.amazon.com/gp/product/B003XQEVWQ/
+
 ## What I am reading now
 
-1. Critical Thinking: Tools for Taking Charge of Your Professional and Personal Life (Richard Paul, Linda Elder)
+1. The Five Dysfunctions of a Team: A Leadership Fable (Patrick M. Lencioni)
+https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Lencioni-ebook/dp/B006960LQW
+
+2. Critical Thinking: Tools for Taking Charge of Your Professional and Personal Life (Richard Paul, Linda Elder)
 https://www.amazon.com/gp/product/B00ER86QOU/
 
-2. How to Measure Anything in Cybersecurity Risk (Douglas W. Hubbard, Richard Seiersen, Daniel E. Geer, Stuart McClure)
+3. How to Measure Anything in Cybersecurity Risk (Douglas W. Hubbard, Richard Seiersen, Daniel E. Geer, Stuart McClure)
 https://www.amazon.com/gp/product/B01J4XYM16/
 
 ## Up Next
@@ -21,22 +40,6 @@ https://www.amazon.com/gp/product/B00994UP44/
 
 4. A Message to Garcia Being a Preachment (Elbert Hubbard)
 https://www.amazon.com/Message-Garcia-Illustrated-Elbert-Hubbard-ebook/dp/B00EG7C4GG/
-
-
-
-## Leadership
-1. Extreme Ownership (Jocko Willink and Leif Babin
-https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2/
-
-2. Phoenix Project (Gene Kim, Kevin Behr, and George Spafford)
-https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/
-
-3. Start with Why: How Great Leaders Inspire Everyone to Take Action (Simon Sinek)
-https://www.amazon.com/gp/product/B002Q6XUE4/
-
-4. The Mission, The Men, and Me: Lessons from a Former Delta Force Commander (Pete Blaber)
-https://www.amazon.com/gp/product/B003XQEVWQ/
-
 
 
 ## Reference - Technology (General)
